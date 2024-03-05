@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잠시만든 파일.md",
+                "file": "프로젝트관리/2._프로젝트_관리방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잠시만든 파일.md",
+                "file": "프로젝트관리/2._프로젝트_관리방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잠시만든 파일.md",
+                "file": "프로젝트관리/2._프로젝트_관리방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잠시만든 파일.md"
+                "file": "프로젝트관리/2._프로젝트_관리방법.md"
               }
             }
           }
@@ -157,15 +157,39 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "5402c3596a3e4faa",
   "lastOpenFiles": [
-    "Pasted image 20240304102548.png",
-    "프로젝트관리/1._project_기초상식.md",
     "잠시만든 파일.md",
-    "개발자와대화법/개발자와_대화법.md",
+    "README.md",
+    "WBS의이해/4.3_LibreOffice_조건문_서식.md",
+    "WBS의이해/4.2_GoogleSheet_조건문_서식.md",
+    "WBS의이해/4.1_Excel_조건문_서식.md",
+    "WBS의이해/4._WBS이해.md",
+    "WBS의이해/3._githubblog_wiki.md",
+    "software/5._개발자와_디자이너_협업툴.md",
+    "software/4._Obsidian과_markdown.md",
+    "software/3._GITHUB_활용.md",
+    "software/2.10_sourcetree_참고사항.md",
+    "software/2.9_브랜치합치기_mvp_3.md",
+    "software/2.8_브랜치만들기_mvp_2.md",
+    "software/2.7_브랜치만들기_mvp_1.md",
+    "software/2.6_파일내용_변경해서_커밋하기 2.md",
+    "software/2.5_파일내용_변경해서_커밋하기 1.md",
+    "software/2.4_파일추가해서_커밋하기.md",
+    "software/2.3_localgit_최초_커밋하기.md",
+    "software/2.2_localgit_생성하기.md",
+    "software/2.1_sourcetree설치.md",
+    "software/2.0_초간단GIT.md",
+    "software/2._PM에게_필요한GIT.md",
+    "software/1._PM의역할.md",
+    "software/0._강의일정목표.md",
+    "github이슈관리/4._GITHUB_ISSUE관리.md",
+    "프로젝트관리/5._외주개발_quickstart.md",
+    "Pasted image 20240304102548.png",
     "dir"
   ]
 }
