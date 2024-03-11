@@ -42,9 +42,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b42c98a2456008ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT to Markdown/컴퓨팅 사고방식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74060bda2c747322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT to Markdown/1인기업 평소습관 - 회전율과 BEP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78c15ba7b3f2b6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT to Markdown/해당하는 이미지가 나타내는 HTML코드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db13615954862d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT to Markdown/음악 재생,멈춤 HTML코드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3c39a304d07658f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT to Markdown/회사 웹페이지 HTML코드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인공지능 자료 정리/오렌지3.md",
+                "file": "ChatGPT to Markdown/회사 웹페이지 HTML코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인공지능 자료 정리/오렌지3.md",
+                "file": "ChatGPT to Markdown/회사 웹페이지 HTML코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인공지능 자료 정리/오렌지3.md"
+                "file": "ChatGPT to Markdown/회사 웹페이지 HTML코드.md"
               }
             }
           }
@@ -173,12 +233,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e575d5aeedc8f5a1",
+  "active": "a2dc570924aee612",
   "lastOpenFiles": [
+    "ChatGPT to Markdown/음악 재생,멈춤 HTML코드.md",
+    "ChatGPT to Markdown/회사 웹페이지 HTML코드.md",
+    "ChatGPT to Markdown/해당하는 이미지가 나타내는 HTML코드.md",
+    "ChatGPT to Markdown/1인기업 평소습관 - 회전율과 BEP.md",
+    "ChatGPT to Markdown/컴퓨팅 사고방식.md",
+    "ChatGPT to Markdown",
+    "인공지능 자료 정리/오렌지3.md",
     "인공지능 자료 정리/files/Pasted image 20240305161908.png",
     "인공지능 자료 정리/files",
     "프로젝트관리/2._프로젝트_관리방법.md",
-    "인공지능 자료 정리/오렌지3.md",
     "인공지능 자료 정리",
     "잠시만든 파일.md",
     "README.md",
@@ -199,10 +265,6 @@
     "software/2.4_파일추가해서_커밋하기.md",
     "software/2.3_localgit_최초_커밋하기.md",
     "software/2.2_localgit_생성하기.md",
-    "software/2.1_sourcetree설치.md",
-    "software/2.0_초간단GIT.md",
-    "software/2._PM에게_필요한GIT.md",
-    "software/1._PM의역할.md",
     "Pasted image 20240304102548.png",
     "dir"
   ]
